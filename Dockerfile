@@ -3,7 +3,7 @@ FROM ubuntu:14.04
 MAINTAINER Junhyeok Choi <junhyeok.choi@gmail.com>
 
 ENV SCALA_VERSION 2.11.7
-ENV SBT_VERSION 0.13.9
+ENV SBT_VERSION 0.13.8
 
 # Install required software for building docker image
 RUN \
